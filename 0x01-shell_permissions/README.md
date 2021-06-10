@@ -1,5 +1,5 @@
-## SHell Permissions
-### FILES description
+## SHELL Permissions
+### All files description below 
 
 File 0- Script that changes current user to the user `betty`.
 
@@ -22,7 +22,7 @@ File 8- Script that sets the permission to the file `hello` as follows:
 >* Grupo: no permition at all
 >* Other users: all the permissions
 
-File 9- A script that set mode of the file `hello` to this: `-rwxr-x-wx 1 julien lulien 23 Sep 20 14:25 hello`
+File 9- A script that set mode of the file `hello` to this: `-rwxr-x-wx`
 
 File 10- Script that sets the mode of the file `hello` the same as `olleh`'s mode.
 
@@ -32,13 +32,13 @@ File 12- Script that creates a directory called `dir_holberton` with permissions
 
 File 13- Script that changes the group owner to `holberton` for the file `hello`.
 
-File 14- Script that changes the owner to `betty`and the group to `holberton` for all the files and directories in the working directory.
+File 100- Script that changes the owner to `betty`and the group to `holberton` for all the files and directories in the working directory.
 
-File 15- Script that changes the owner and the group owner of `_hello` to `betty` and `holberton` respectively.
+File 101- Script that changes the owner and the group owner of `_hello` to `betty` and `holberton` respectively.
 
-File 16- Script that changes the owner of the file `hello` to `betty` only if it is owned by the user `guillaume.
+File 102- Script that changes the owner of the file `hello` to `betty` only if it is owned by the user `guillaume.
 
-File 17- Script that will play the StarWars IV episode in the terminal.
+File 103- Script that will play the StarWars IV episode in the terminal.
 
 
 
