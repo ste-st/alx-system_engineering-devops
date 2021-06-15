@@ -1,2 +1,2 @@
 #!/bin/bash
-grep '^[Aa-Zz]' /etc/shh/sshd_config
+cat /etc/shh/sshd_config | grep ^[[:alpha:]]
