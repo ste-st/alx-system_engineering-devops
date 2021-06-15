@@ -1,3 +1,2 @@
 #!/bin/bash
 echo {a..}{a..} | tr " " "\n" | grep -v "oo"
-
